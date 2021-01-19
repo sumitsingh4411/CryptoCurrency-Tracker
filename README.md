@@ -1,3 +1,17 @@
+# Netflix-clone
+### [Live Site](https://curroptocurrancy.herokuapp.com/)
+
+![crypto](https://i.ibb.co/W5sqx81/Capture16.png)
+![crypto](https://i.ibb.co/TmwJfd8/Capture17.png)
+
+## Introduction
+This is a code repository for the corresponding cryptocurrancy tracking . 
+
+In this repository, we're going to build a fully functional cryptocurrancy application using reactjs. 
+
+While building it you're going to learn many advanced React , JavaScript topics, Hooks concept ,chartjs, API fetching with axios and many more.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
