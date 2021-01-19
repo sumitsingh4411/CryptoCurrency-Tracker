@@ -1,4 +1,4 @@
-# Netflix-clone
+# CryptoCurrency-Tracker
 ### [Live Site](https://curroptocurrancy.herokuapp.com/)
 
 ![crypto](https://i.ibb.co/W5sqx81/Capture16.png)
